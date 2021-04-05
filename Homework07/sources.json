@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Baterie AAA",
+        "price" : "16.95",
+        "quantity" : "10",
+        "discount" : "0",
+        "likeability" : "0"
+    },
+    {
+        "name" : "Incarcator",
+        "price" : "49.99",
+        "quantity" : "5",
+        "discount" : "0.1",
+        "likeability" : "0"
+    },
+    {
+        "name" : "Smart TV",
+        "price" : "2000",
+        "quantity" : "5",
+        "discount" : "0.1",
+        "likeability" : "0"
+    }
+]
